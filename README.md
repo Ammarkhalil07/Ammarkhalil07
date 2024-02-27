@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 I'm Ammar Yasser Khalil
+- 🔭 I’m currently working Embedded System Engineer
+- 🌱 I’m currently learning Embedded Linux
+- 👯 I’m looking to collaborate on Embedded system projects
+- 📫 How to reach me: 
+
 <!--
 **Ammarkhalil07/Ammarkhalil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
