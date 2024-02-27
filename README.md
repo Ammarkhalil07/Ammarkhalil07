@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👋 I'm Ammar Yasser Khalil
-- 🔭 I’m currently working Embedded System Engineer
+- 🔭 I’m currently working as Embedded System Engineer
 - 🌱 I’m currently learning Embedded Linux
+- 🤔 I’m interested Automotive Engineering
 - 👯 I’m looking to collaborate on Embedded system projects
 - 📫 How to reach me: [Ammarkhalil](https://www.linkedin.com/in/ammarkh/)
 
