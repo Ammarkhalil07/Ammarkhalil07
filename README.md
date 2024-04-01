@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 I'm Ammar Yasser Khalil
-- ⚡ I'm Electronic & Communication Engineer
+- ⚡ I'm Electronics & Communication Engineer
 - 🔭 I’m currently working as Embedded System Engineer
 - 🌱 I’m currently learning Embedded Linux
 - 🤔 I’m interested Automotive Engineering and Digital layout design .
